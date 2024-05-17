@@ -1,7 +1,8 @@
-# 🏄🤖 DataMaestro-
+# 🤖 DataMaestro
 
 
-👋 Hi,DataMeastro here!, I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of AI and it's impact on the Environs and i really enjoy coding and reading.
+DataMeastro here!👋, 
+I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of AI and it's impact on the Environs and i really enjoy coding and reading.
 
    Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onovaehonour3442/)]((https://www.linkedin.com/in/onovaehonour3442/))
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbosshonour@gmail.com)](mailto:dbosshonour@gmail.com)
