@@ -9,9 +9,15 @@ I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-fe5c8f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_honourthegeek_/)]((https://www.instagram.com/_honourthegeek_/))
 
 ---
+- 🔭 I’m currently working on datasets and Predictive Modeling 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working with
+  - 🌐 Predictive Modeling
+  - 🤯 Problems that make me think
+- 🤝 Seeking for apprenticeships or internships
+- 🌱 Currently learning about Machine and Deep Learning
+---
 
 ### 🧰 Languages and Tools
-
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
