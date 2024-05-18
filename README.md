@@ -2,7 +2,7 @@
 
 
 DataMeastro here!👋, 
-I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of AI and it's impact on the Environs and i really enjoy coding and reading.
+I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of AI, and its impact on the environment and I enjoy coding and reading.
 
    Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onovaehonour3442/)]((https://www.linkedin.com/in/onovaehonour3442/))
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbosshonour@gmail.com)](mailto:dbosshonour@gmail.com)
@@ -15,7 +15,7 @@ I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of
   - 🤯 Problems that make me think
 - 🤝 Seeking for apprenticeships or internships
 - 🌱 Currently learning about Machine and Deep Learning
----
+
 
 ### 🧰 Languages and Tools
 
@@ -32,11 +32,11 @@ I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of
 
 My journey into data science began with an insatiable curiosity as a young coder, eager to unravel the intricacies of data analysis, particularly within real estate. Immersed in datasets, I honed my Python skills and delved into statistical theories, fueled by a fervent ambition to extract meaningful insights.
 
-While my initial focus was on real estate analysis, I found myself captivated by the broader realm of machine learning and predictive modeling. Exploring various algorithms, I gradually steered my path towards becoming a data scientist.
+While my initial focus was on real estate analysis, I was captivated by the broader realm of machine learning and predictive modeling. Exploring various algorithms, I gradually steered my path toward becoming a data scientist.
 
-Amidst my academic endeavors, a persistent dream lingered – to create my own data-driven application, one that could redefine how insights are derived in the real estate sector. However, with graduation on the distant horizon, I opted to fortify my skills by securing internships and taking on projects, rather than rushing into traditional employment.
+Amidst my academic endeavors, a persistent dream lingered – to create my data-driven application, one that could redefine how insights are derived in the real estate sector. However, with graduation on the distant horizon, I opted to fortify my skills by securing internships and taking on projects, rather than rushing into traditional employment.
 
-As I continue on this journey, propelled by passion and purpose, I extend an invitation to join me. In the world of data science, as in life, the greatest discoveries await those who dare to chase their dreams.
+As I continue on this journey, propelled by passion and purpose, I invite you to join me. In the world of data science, as in life, the greatest discoveries await those who dare to chase their dreams.
 
 ---
 
