@@ -26,7 +26,6 @@ I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of
 <br />
 
 #
-<!--
 <details>
  <summary><h3>👨‍💻 Honour's Coding Journey</h3></summary>
 
